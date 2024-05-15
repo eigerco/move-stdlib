@@ -17,6 +17,7 @@ Currently, it contains the module:
 - **type_name**
 - **unit_test**
 - **vector**
+- **acl**
 
 
 ### See also
