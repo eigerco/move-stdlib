@@ -158,7 +158,7 @@ Remove the address from the ACL.
 
 ## Function `contains`
 
-Return true iff the ACL contains the address.
+Return true if the ACL contains the address.
 
 
 <pre><code><b>public</b> <b>fun</b> <a href="acl.md#0x1_acl_contains">contains</a>(<a href="acl.md#0x1_acl">acl</a>: &<a href="acl.md#0x1_acl_ACL">acl::ACL</a>, addr: <b>address</b>): bool
