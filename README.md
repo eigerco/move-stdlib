@@ -28,7 +28,7 @@ Currently, it contains the module:
 - [substrate-stdlib](https://github.com/eigerco/substrate-stdlib) - Provides elementary Substrate functions in Move smart contracts.
 
 
-### License
+## License
 
 Move-stdlib is licensed as [APACHE 2.0](LICENSE).
 
