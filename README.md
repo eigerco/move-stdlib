@@ -32,8 +32,14 @@ Currently, it contains the module:
 
 Move-stdlib is licensed as [APACHE 2.0](LICENSE).
 
-
 [pallet-move]: https://github.com/eigerco/pallet-move
 [substrate-move]: https://github.com/eigerco/substrate-move
 [smove]: https://github.com/eigerco/smove
 [substrate-stdlib]: https://github.com/eigerco/substrate-stdlib
+
+## About [Eiger](https://www.eiger.co)
+
+We are engineers. We contribute to various ecosystems by building low level implementations and core components. We believe in Move and in Polkadot and wanted to bring them together. Read more about this project on [our blog](https://www.eiger.co/blog/eiger-brings-move-to-polkadot).
+
+Contact us at hello@eiger.co
+Follow us on [X/Twitter](https://x.com/eiger_co)
