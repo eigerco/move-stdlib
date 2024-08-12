@@ -1,8 +1,8 @@
 # move-stdlib for pallet-move
 
-This repository is part of the [pallet-move][pallet-move] project, which enables users to write smart contracts in Substrate-based blockchains with the Move language.
+This repository is part of the [pallet-move] project, which enables users to write smart contracts in Substrate-based blockchains with the Move language.
 This standard library can be included to provide elementary Move functions in Move smart contracts.
-To provide elementary pure Substrate functions, have a look at the [substrate-stdlib][substrate-stdlib].
+To provide elementary pure Substrate functions, have a look at the [substrate-stdlib].
 
 Currently, it contains the modules:
 - **ascii**
@@ -22,10 +22,10 @@ Currently, it contains the modules:
 
 ## See also
 
-- [pallet-move][pallet-move] - Main repo containing the Move pallet.
-- [substrate-move][substrate-move] - A modified MoveVM fork for the use of MoveVM in the pallet-move repo.
-- [smove][smove] - Handles the gas estimation, the serialization of script and module transactions, and the inspection of the module's ABIs.
-- [substrate-stdlib][substrate-stdlib] - Provides elementary Substrate functions in Move smart contracts.
+- [pallet-move] - Main repo containing the Move pallet.
+- [substrate-move] - A modified MoveVM fork for the use of MoveVM in the pallet-move repo.
+- [smove] - Handles the gas estimation, the serialization of script and module transactions, and the inspection of the module's ABIs.
+- [substrate-stdlib] - Provides elementary Substrate functions in Move smart contracts.
 
 
 ## License
