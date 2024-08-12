@@ -1,10 +1,10 @@
 # move-stdlib for pallet-move
 
-This repository is part of the [pallet-move](https://github.com/eigerco/pallet-move) project, which enables users to write smart contracts in Substrate-based blockchains with the Move language.
+This repository is part of the [pallet-move][pallet-move] project, which enables users to write smart contracts in Substrate-based blockchains with the Move language.
 This standard library can be included to provide elementary Move functions in Move smart contracts.
-To provide elementary pure Substrate functions, have a look at the [substrate-stdlib].
+To provide elementary pure Substrate functions, have a look at the [substrate-stdlib][substrate-stdlib].
 
-Currently, it contains the module:
+Currently, it contains the modules:
 - **ascii**
 - **bcs**
 - **bit_vector**
@@ -22,10 +22,10 @@ Currently, it contains the module:
 
 ## See also
 
-- [pallet-move](https://github.com/eigerco/pallet-move) - Main repo containing the Move pallet.
-- [substrate-move](https://github.com/eigerco/substrate-move) - A modified MoveVM fork for the use of MoveVM in the pallet-move repo.
-- [smove](https://github.com/eigerco/smove) - Handles the gas estimation, the serialization of script and module transactions, and the inspection of the module's ABIs.
-- [substrate-stdlib](https://github.com/eigerco/substrate-stdlib) - Provides elementary Substrate functions in Move smart contracts.
+- [pallet-move][pallet-move] - Main repo containing the Move pallet.
+- [substrate-move][substrate-move] - A modified MoveVM fork for the use of MoveVM in the pallet-move repo.
+- [smove][smove] - Handles the gas estimation, the serialization of script and module transactions, and the inspection of the module's ABIs.
+- [substrate-stdlib][substrate-stdlib] - Provides elementary Substrate functions in Move smart contracts.
 
 
 ## License
@@ -39,3 +39,9 @@ We are engineers. We contribute to various ecosystems by building low level impl
 
 Contact us at hello@eiger.co
 Follow us on [X/Twitter](https://x.com/eiger_co)
+
+
+[pallet-move]: https://github.com/eigerco/pallet-move
+[smove]: https://github.com/eigerco/smove
+[substrate-move]: https://github.com/eigerco/substrate-move
+[substrate-stdlib]: https://github.com/eigerco/substrate-stdlib
